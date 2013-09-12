@@ -1,0 +1,11 @@
+To compile, just type 
+
+make
+
+To use, do
+
+export PATH=${PATH}:.
+
+Read how-to at http://rome.lcs.mit.edu/wiki/index.php/OspfOpt
+
+Author: Srikanth Kandula
